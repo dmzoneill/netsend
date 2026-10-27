@@ -1,5 +1,9 @@
 # NetSend
 
+<p align="center">
+  <img src=".github/logo.png" alt="netsend logo" width="128" />
+</p>
+
 A minimal VB.NET Windows Forms frontend for `net send`.
 
 ## What it does
